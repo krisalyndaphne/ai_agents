@@ -25,7 +25,7 @@ Langraph is a chatbot application built using Python, leveraging the Langchain a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/langraph.git
+   git clone https://github.com/krisalyndaphne/langraph.git
    cd langraph
 
 2. working / outputs
