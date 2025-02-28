@@ -1,4 +1,4 @@
-# ai_agents
+![Screenshot 2025-02-28 182157](https://github.com/user-attachments/assets/3645bcfd-9be3-4873-a04f-259f4db76c7e)# ai_agents
 using langgraph and langsmith 
 model=deepseek-r1-distill-qwen-32b
 running a model locally using https://groq.com/
@@ -27,3 +27,11 @@ Langraph is a chatbot application built using Python, leveraging the Langchain a
    ```bash
    git clone https://github.com/yourusername/langraph.git
    cd langraph
+
+2. working / outputs
+   
+![Screenshot 2025-02-28 182157](https://github.com/user-attachments/assets/780849d7-49d6-412b-ba3f-d310af49137c)
+
+ 
+
+![Screenshot 2025-02-28 182217](https://github.com/user-attachments/assets/f5a7b7b2-b58c-4796-8746-e16d194619d5)
