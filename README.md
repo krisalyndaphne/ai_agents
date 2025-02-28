@@ -1,4 +1,4 @@
-![Screenshot 2025-02-28 182157](https://github.com/user-attachments/assets/3645bcfd-9be3-4873-a04f-259f4db76c7e)# ai_agents
+# ai_agents
 using langgraph and langsmith 
 model=deepseek-r1-distill-qwen-32b
 running a model locally using https://groq.com/
